@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/home/crazy/c#/MVC/MiPrimerMVC/obj/Debug/net8.0/scopedcss/projectbundle/MiPrimerMVC.bundle.scp.css",
-      "PackagePath": "staticwebassets/MiPrimerMVC.3afwwydwt3.bundle.scp.css"
+      "PackagePath": "staticwebassets/MiPrimerMVC.bundle.scp.css"
     },
     {
       "Id": "/home/crazy/c#/MVC/MiPrimerMVC/wwwroot/css/site.css",
@@ -255,10 +255,6 @@
     {
       "Id": "/home/crazy/c#/MVC/MiPrimerMVC/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
-    },
-    {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MiPrimerMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MiPrimerMVC.Microsoft.AspNetCore.StaticWebAssets.props",

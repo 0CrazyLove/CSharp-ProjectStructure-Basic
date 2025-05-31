@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiPirimeraApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+033558b6798e9750ff564c3bf2ce1273192adcc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e273737d428bf4f23c9e5d39a16d12c72957ec17")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiPirimeraApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiPirimeraApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
