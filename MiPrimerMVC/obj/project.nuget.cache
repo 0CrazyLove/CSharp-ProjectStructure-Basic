@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Rd+z5evja30=",
+  "dgSpecHash": "N4Obr1KJjsc=",
   "success": true,
   "projectFilePath": "/home/crazy/c#/MVC/MiPrimerMVC/MiPrimerMVC.csproj",
   "expectedPackageFiles": [
-    "/home/crazy/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+    "/home/crazy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/home/crazy/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.15/microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }
