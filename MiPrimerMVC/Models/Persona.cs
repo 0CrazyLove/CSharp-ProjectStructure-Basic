@@ -1,5 +1,5 @@
 using System;
-namespace MiPrimerMVC
+namespace MiPrimerMVC.Models
 {
     public class Persona
     {
