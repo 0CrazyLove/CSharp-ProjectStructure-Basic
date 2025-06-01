@@ -1,12 +1,27 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+
 <body>
-<p>@ViewData["Mensaje"]</p>
-<h3>@ViewData["pene"]</h3>
-<h1>@ViewData["hola"]</h1>
+    <p>@ViewData["Mensaje"]</p>
+    <h3>@ViewData["pene"]</h3>
+    <h1>@ViewData["hola"]</h1>
+
+    @{
+        var number = 4;
+    }
+    @if(number ==2){
+        <h1>es igual a 2</h1>
+    }else{
+        <h2>no es igual a 2</h2>
+    }
+
+    <a href="/MiPrimerMVC/Views/Home/Fecha.cshtml">visite aqui para la fecha</a>
+
 </body>
+
 </html>
