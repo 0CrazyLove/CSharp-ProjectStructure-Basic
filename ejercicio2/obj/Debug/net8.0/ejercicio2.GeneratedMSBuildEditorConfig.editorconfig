@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/crazy/c#/MVC/ejercicio2
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/crazy/c\#/MVC/ejercicio2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/home/crazy/c\#/MVC/ejercicio2/Views/Home/Detial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/crazy/c\#/MVC/ejercicio2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/home/crazy/c\#/MVC/ejercicio2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/crazy/c\#/MVC/ejercicio2/Views/Shared/Error.cshtml]
