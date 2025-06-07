@@ -1,9 +1,22 @@
 @model ejercicio2.Models.Task
+<!DOCTYPE html>
+<html lang="en">
 
-<h2>Detalle de la tarea</h2>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 
-<p>@Model.id</p>
-<p> @Model.title</p>
-<p> @Model.description</p>
-<p> @(Model.completed ? "Sí" : "No")</p>
+<body>
+    <h2>Detalle de la tarea</h2>
 
+    <p>@Model.id</p>
+    <p> @Model.title</p>
+    <p> @Model.description</p>
+    <p> @(Model.completed ? "Sí" : "No")</p>
+
+
+</body>
+
+</html>
