@@ -12,7 +12,9 @@ public class Student
     public Student()
     {
         Id = id;
-        Name = name!;
+        Name = name;
+        Age = age;
+        Course = course;
 
     }
 
@@ -33,9 +35,9 @@ public class Student
         }
     }
     //propiedad para name
-    public string Name
+    public string? Name
     {
-        get { return name!; }
+        get { return name; }
         set
         {
             if (String.IsNullOrEmpty(value))
@@ -45,6 +47,38 @@ public class Student
             else
             {
                 name = value;
+            }
+        }
+    }
+    //propiedad para name
+    public int Age
+    {
+        get { return age; }
+        set
+        {
+            if (value <= 0 )
+            {
+                System.Console.WriteLine("valor de la edad no permitido");
+            }
+            else
+            {
+                age = value;
+            }
+        }
+    }
+    //propiedad para course
+    public string? Course
+    {
+        get { return course; }
+        set
+        {
+            if (String.IsNullOrEmpty(value))
+            {
+                System.Console.WriteLine("valor del curso no permitido");
+            }
+            else
+            {
+                course = value;
             }
         }
     }

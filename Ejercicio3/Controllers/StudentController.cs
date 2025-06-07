@@ -7,8 +7,16 @@ public class StudentController : Controller
     //metodo detial
     public IActionResult Detial()
     {
-        var student = new Student();
-        return View();
+        var student = new Student()
+        {
+            Id = 3,
+            Name = "fulanito",
+            Age = 44,
+            Course = "actor porno"
+
+
+        };
+        return View(student);
     }
     
 }
