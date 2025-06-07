@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uhmekDF0vys=",
+  "dgSpecHash": "cGgrTckpHcK0TNtCexFhmuW+8R3BbfJVFF4aIgUMSo2OcAD6hxSFJDAw9CNR41Z39z9flq5dmeXEXMKQ5h+YVA==",
   "success": true,
-  "projectFilePath": "D:\\taller informatica 11 2025\\POO\\estructura\\CSharp-ProjectStructure-Basic\\MiPrimerMVC\\MiPrimerMVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/crazy/c#/MVC/MiPrimerMVC/MiPrimerMVC.csproj",
+  "expectedPackageFiles": [
+    "/home/crazy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
