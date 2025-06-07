@@ -1,6 +1,6 @@
 using System;
-namespace ejercicio2.Models
-{
+namespace ejercicio2.Models;
+
     public class Task
     {
         //atributos de la clase
@@ -10,4 +10,3 @@ namespace ejercicio2.Models
         public bool completed { get; set; }
 
     }
-}
