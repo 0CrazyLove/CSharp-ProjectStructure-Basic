@@ -5,7 +5,7 @@ namespace Ejercicio3.Controllers;
 public class StudentController : Controller
 {
     //metodo detial
-    public IActionResult Detial()
+    public IActionResult Detail()
     {
         var student = new Student()
         {

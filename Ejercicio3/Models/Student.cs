@@ -8,15 +8,7 @@ public class Student
     private string? name;
     private int age;
     private string? course;
-    //constructor
-    public Student()
-    {
-        Id = id;
-        Name = name;
-        Age = age;
-        Course = course;
-
-    }
+    
 
     //propiedad para id
     public int Id
