@@ -29,3 +29,34 @@
 /home/crazy/c#/MVC/MiPrimerMVC/obj/Debug/net8.0/MiPrimerMVC.pdb
 /home/crazy/c#/MVC/MiPrimerMVC/obj/Debug/net8.0/MiPrimerMVC.genruntimeconfig.cache
 /home/crazy/c#/MVC/MiPrimerMVC/obj/Debug/net8.0/ref/MiPrimerMVC.dll
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\appsettings.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.staticwebassets.runtime.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.exe
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.deps.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.runtimeconfig.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.dll
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\bin\Debug\net8.0\MiPrimerMVC.pdb
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.AssemblyInfoInputs.cache
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.AssemblyInfo.cs
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.csproj.CoreCompileInputs.cache
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.RazorAssemblyInfo.cache
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.RazorAssemblyInfo.cs
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.sourcelink.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets\msbuild.MiPrimerMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.MiPrimerMVC.props
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiPrimerMVC.props
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiPrimerMVC.props
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\scopedcss\bundle\MiPrimerMVC.styles.css
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.dll
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\refint\MiPrimerMVC.dll
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.pdb
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\MiPrimerMVC.genruntimeconfig.cache
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\ref\MiPrimerMVC.dll
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\taller informatica 11 2025\POO\estructura\CSharp-ProjectStructure-Basic\MiPrimerMVC\obj\Debug\net8.0\scopedcss\projectbundle\MiPrimerMVC.bundle.scp.css

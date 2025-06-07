@@ -38,6 +38,7 @@ public class HomeController : Controller
             nombre = "fulanito123",
             edad = 2
         };
+        persona.Greet();
         return View(persona);
     }
 }

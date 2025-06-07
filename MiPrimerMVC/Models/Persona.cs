@@ -6,5 +6,12 @@ namespace MiPrimerMVC.Models
         public string? nombre { get; set; }
         public int edad { get; set; }
 
+        //metodo saludar
+        public string Greet()
+        {
+            return "HOLAAAAAAAAAAAAA!!!!!!!!!!!!";
+           
+        }
+
     }
 }
