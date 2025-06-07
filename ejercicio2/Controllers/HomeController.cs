@@ -1,4 +1,4 @@
-/*
+
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ejercicio2.Models;
@@ -31,4 +31,3 @@ public class HomeController : Controller
     }
 }
 
-*/

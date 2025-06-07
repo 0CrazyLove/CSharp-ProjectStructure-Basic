@@ -1,0 +1,8 @@
+@model ejercicio2.Models.Task
+
+<h2>Detalle de la tarea</h2>
+
+<p><strong>ID:</strong> @Model.id</p>
+<p><strong>Título:</strong> @Model.title</p>
+<p><strong>Descripción:</strong> @Model.description</p>
+<p><strong>Completada:</strong> @(Model.completed ? "Sí" : "No")</p>
