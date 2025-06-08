@@ -1,4 +1,3 @@
-using Ejercicio3.Models;
 namespace Ejercicio3.Models;
 
 public class Student
@@ -8,7 +7,15 @@ public class Student
     private string? name;
     private int age;
     private string? course;
-    
+    //constructor
+    public Student(int id, string name, int age, string course)
+    {
+        Id = id;
+        Name = name;
+        Age = age;
+        Course = course;
+    }
+
 
     //propiedad para id
     public int Id
@@ -18,12 +25,9 @@ public class Student
         {
             if (value <= 0)
             {
-                System.Console.WriteLine("valor no permitido");
+                throw new ArgumentException("El ID debe ser mayor que cero.");
             }
-            else
-            {
-                id = value;
-            }
+            id = value;
         }
     }
     //propiedad para name
@@ -34,12 +38,12 @@ public class Student
         {
             if (String.IsNullOrEmpty(value))
             {
-                System.Console.WriteLine("valor del nombre no permitido");
+                throw new ArgumentException("El nombre no puede ser nulo o vacío.");
             }
-            else
-            {
-                name = value;
-            }
+
+
+            name = value;
+
         }
     }
     //propiedad para name
@@ -48,14 +52,13 @@ public class Student
         get { return age; }
         set
         {
-            if (value <= 0 )
+            if (value <= 0)
             {
-                System.Console.WriteLine("valor de la edad no permitido");
+                throw new ArgumentException("La edad debe ser mayor que cero.");
             }
-            else
-            {
-                age = value;
-            }
+
+            age = value;
+
         }
     }
     //propiedad para course
@@ -66,12 +69,11 @@ public class Student
         {
             if (String.IsNullOrEmpty(value))
             {
-                System.Console.WriteLine("valor del curso no permitido");
+                throw new ArgumentException("El curso no puede ser nulo o vacío.");
             }
-            else
-            {
-                course = value;
-            }
+
+            course = value;
+
         }
     }
 }
