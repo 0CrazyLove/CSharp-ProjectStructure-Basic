@@ -1,0 +1,40 @@
+@model Ejercicio4.Models.Student
+@{
+    ViewData["Title"] = "Crear esstudiante";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Formulario de Estudiante</h1>
+
+    <form asp-action="Create" method="post">
+        <div>
+            <label for="Id">ID:</label>
+            <input asp-for="id" />
+        </div>
+        <div>
+            <label for="Name">Nombre:</label>
+            <input asp-for="name" />
+        </div>
+        <div>
+            <label for="Age">Edad:</label>
+            <input asp-for="age" />
+        </div>
+        <div>
+            <label for="Course">Curso:</label>
+            <input asp-for="course" />
+        </div>
+        <button type="submit">Enviar</button>
+    </form>
+
+</body>
+
+</html>
