@@ -15,7 +15,7 @@ namespace Ejercicio4.Controllers
 
             return View("Detail", student);
         }
-        public IActionResult Detail(Student student)
+        public IActionResult Detail(Student student )
         {
             return View(student);
         }
