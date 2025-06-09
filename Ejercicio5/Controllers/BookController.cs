@@ -17,6 +17,5 @@ public class BookController : Controller
         return View("Detail", book);
     }
 
-  
 
 }
