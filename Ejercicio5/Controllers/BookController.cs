@@ -17,11 +17,6 @@ public class BookController : Controller
         return View("Detail", book);
     }
 
-    //metodo para mostrar los detalles del libro
-    public IActionResult Detail(Book book)
-    {
-        return View(book);
-    }
-
+  
 
 }
