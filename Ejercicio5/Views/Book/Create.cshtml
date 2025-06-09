@@ -1,0 +1,19 @@
+@model Ejercicio5.Models.Book
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear</title>
+</head>
+<body>
+    <h1>formulario</h1>
+    <form asp-action="Create" method="post">
+        <input asp-for="title">
+        <input asp-for="author">
+        <input asp-for="year">
+       <button type="submit">Enviar</button>
+    </form>
+    
+</body>
+</html>
