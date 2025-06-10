@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+yWUDBu8/dGSUkvZeTyzjjQXntmx1Lybe+IdrG732PberjkuCeRlgWgZvyZc9c2DB4QYfngWRMFx9EeIa5azQ==",
+  "success": true,
+  "projectFilePath": "/home/crazy/c#/MVC/Ejercicio6/Ejercicio6.csproj",
+  "expectedPackageFiles": [
+    "/home/crazy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

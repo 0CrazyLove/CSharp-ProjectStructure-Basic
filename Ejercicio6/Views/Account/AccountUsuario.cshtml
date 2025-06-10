@@ -1,0 +1,23 @@
+@model Ejercicio6.Models.Usuario 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hola</h1>
+    <form asp-action="AccountUsuario" method="post" >
+        <input asp-for="Name">
+        <input asp-for="Email">
+        <button type="submit">enviar</button>
+    </form>
+
+@if (!string.IsNullOrEmpty(Model?.Name) && !string.IsNullOrEmpty(Model?.Email)){
+    <h1>Datos del usuario</h1>
+    <h1>Nombre: @Model.Name</h1>
+    <h1>Email: @Model.Email</h1>
+}
+</body>
+</html>
