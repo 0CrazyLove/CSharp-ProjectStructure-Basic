@@ -4,7 +4,7 @@ namespace Ejercicio8.Models;
 public class User
 {
     [Required(ErrorMessage = "El nombre no puede ser nulo. BAKA NAYO!! >:c")]
-    [StringLength(50, MinimumLength = 3)]
+    [StringLength(50, MinimumLength = 3 , ErrorMessage ="Longitud de tu VERGOTA~ no es valida Unu")]
     public string? FullName { get; set; }
 
     [Required(ErrorMessage = "El email no puede ser nulo...NYA~~~~~ CUMMMM")]

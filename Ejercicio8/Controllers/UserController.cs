@@ -14,13 +14,9 @@ public class UserController : Controller
     {
         if (ModelState.IsValid)
         {
-            return RedirectToAction("Sucess", user);
+            return View("Sucess", user);
         }
         return View();
     }
-    [HttpGet]
-    public IActionResult Sucess()
-    {
-        return View();
-    }
+    
 }
