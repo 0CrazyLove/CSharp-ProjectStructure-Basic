@@ -1,0 +1,36 @@
+@model Ejercicio8.Models.User
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="Create" method="post">
+        <h1>Nombre completo owo:</h1>
+        <input asp-for="FullName">
+        <span asp-validation-for="FullName"></span>
+        <h1>Correo de hentaiLa 7w7:</h1>
+        <input asp-for="Email">
+        <span asp-validation-for="Email"></span>
+        <h1>Edad Codigo Postal 7///7</h1>
+        <input asp-for="Age">
+        <span asp-validation-for="Age"></span>
+        <h1>Ingrese una contraseña QWQ</h1>
+        <input asp-for="Password" type="password">
+        <span asp-validation-for="Password"></span>
+        <h1>Confirme su contraseña >.< </h1>
+        <input asp-for="ConfirmPassword" type="Password">
+        <span asp-validation-for="ConfirmPassword"></span>
+        <button type="submit">NYA~~~ 7W7</button>
+    </form>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+</body>
+
+</html>
