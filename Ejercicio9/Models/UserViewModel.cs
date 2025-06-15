@@ -15,7 +15,7 @@ public class UserViewModel
     [Required]
     [StringLength(100, MinimumLength = 6)]
     public string? Password { get; set; }
-    [Compare("Passoword", ErrorMessage = "Las contraseñas no coinciden")]
+    [Compare("Password", ErrorMessage = "Las contraseñas no coinciden")]
     public string? ConfirmPassword { get; set; }
 
 }
