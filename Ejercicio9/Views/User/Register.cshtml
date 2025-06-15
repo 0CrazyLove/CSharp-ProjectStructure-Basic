@@ -1,0 +1,35 @@
+@model Ejercicio9.Models.UserViewModel;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="Register" method="post">
+        <h1>Nombre:</h1>
+        <input asp-for="Name">
+        <span asp-validation-for="Name"></span>
+        <h1>Gmail:</h1>
+        <input asp-for="Gmail">
+        <span asp-validation-for="Gmail"></span>
+        <h1>Edad:</h1>
+        <input asp-for="Age">
+        <span asp-validation-for="Age"></span>
+        <h1>Contraseña:</h1>
+        <input asp-for="Password">
+        <span asp-validation-for="Password"></span>
+        <h1>Confirmar contraseña:</h1>
+        <input asp-for="ConfirmPassword">
+        <span asp-validation-for="ConfirmPassword"></span>
+        <button type="submit"></button>
+    </form>
+        @section Scripts{
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+</body>
+
+</html>
