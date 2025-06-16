@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/crazy/c#/MVC/Ejercicio10
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/crazy/c\#/MVC/Ejercicio10/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/home/crazy/c\#/MVC/Ejercicio10/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/crazy/c\#/MVC/Ejercicio10/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/home/crazy/c\#/MVC/Ejercicio10/Views/Product/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9TdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/crazy/c\#/MVC/Ejercicio10/Views/Shared/Error.cshtml]
@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/crazy/c\#/MVC/Ejercicio10/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/crazy/c\#/MVC/Ejercicio10/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/crazy/c\#/MVC/Ejercicio10/Views/Shared/_Layout.cshtml]

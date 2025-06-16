@@ -1,0 +1,30 @@
+@model Ejercicio10.Models.ProductViewModel    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="Create" method="post">
+        <h1>Nombre:</h1>
+        <input asp-for="Name" type="text">
+        <span asp-validation-for="Name"></span>
+        <h1>Precio:</h1>
+        <input asp-for="Price" type="number">
+        <span asp-validation-for="Price"></span>
+        <h1>Codigo:</h1>
+        <input asp-for="Code" type="text">
+        <span asp-validation-for="Code"></span>
+        <h1>Gmail:</h1>
+        <input asp-for="SupplierEmail" type="text">
+        <span asp-validation-for="SupplierEmail"></span>
+        <button type="submit">Enviar</button>
+    </form>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+    
+</body>
+</html>
