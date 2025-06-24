@@ -1,0 +1,29 @@
+@model Ejercicio11.Models.UsuarioViewModel
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>nombre:</h1>
+    <form asp-action="Create" method="post">
+        <input asp-for="Nombre" />
+        <span asp-validation-for="Nombre"></span>
+        <h1>Edad:</h1>
+        <input asp-for="Edad" />
+        <span asp-validation-for="Edad"></span>
+
+        <button type="submit">Enviar</button>
+    </form>
+     @section Scripts{
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+     }
+
+</body>
+
+</html>
