@@ -1,11 +1,29 @@
+@model User
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
-    <h1>hi</h1>
+    <header>
+        <h1>hi</h1>
+        <form action="UserAccount" method="post">
+            <h1>nombre:</h1>
+            <input asp-for="Name">
+            <span asp-validation-for="Name"></span>
+            <h1>edad:</h1>
+            <input asp-for="Age">
+            <span asp-validation-for="Age"></span>
+            <button type="submit">UWU</button>
+        </form>
+    </header>
+    @section Scripts{
+        <partial name="_ValidationScriptsPartial" />
+    }
 </body>
+
 </html>
